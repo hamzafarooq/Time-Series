@@ -1,5 +1,4 @@
 # Time Series Modeling
-
 Prophet, Xgboost, RandomForest
 
 The data used in this tutorial uses a Iowa Liquor Retails Sales.
