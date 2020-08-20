@@ -7,4 +7,4 @@ This dataset contains every wholesale purchase of liquor in the State of Iowa by
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafarooq&layout=compact)](https://github.com/hamzafarooq/github-readme-stats)
 
-https://public.tableau.com/profile/hamzaf#!/vizhome/Iowa_15976020001000/Dashboard1?publish=yes
+
