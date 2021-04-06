@@ -1,5 +1,5 @@
 # Time Series Modeling
-Prophet, Xgboost, RandomForest
+Prophet, Xgboost, RandomForest, LSTM, RNN and Transformers
 
 The data used in this tutorial uses a Iowa Liquor Retails Sales.
 
